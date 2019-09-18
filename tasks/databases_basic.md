@@ -102,8 +102,6 @@ INSERT INTO `order_item`(`order_id`, `item_id`, `quantity`, `discount`) VALUES
 
 - [How does a relational database work](http://coding-geek.com/how-databases-work/)
 
-## Done?
-
 ⤴️ Back to [Contents](../contents.md)
 
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg

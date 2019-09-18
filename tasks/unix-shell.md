@@ -32,6 +32,8 @@ When you finish this task you can proceed to the next one.
 
 ## Done?
 
+➡️ Go forward to [Database](databases_basic.md)
+
 ⤴️ Back to [Contents](../contents.md)
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
