@@ -1,9 +1,10 @@
-# Database Systems Course
-
+[![MIT Licensed][icon-mit]][license]
 [![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-The course contains basics of database fundamentals etc.
+# Database Systems Course
+
+The course contains basics of database fundamentals.
 
 You can use these materials for self-education as well.
 
@@ -13,8 +14,6 @@ You can use these materials for self-education as well.
 1. Linux, command line basics
 1. Relational Databases, SQL
 
-Apart from this we plan to build a bunch of test projects and have fun together.
-
 ### General Requirements
 
 1. **English knowledge:** a lot of the materials will be in English.
@@ -22,7 +21,6 @@ Apart from this we plan to build a bunch of test projects and have fun together.
    you may want to take one of free online English courses.
 
 1. **Repository on GitHub** to save your progress.
-   More about repositories in _Task 0_.
 
 1. **Formatting:** style of texts in your repository is up to you but remember to make it readable. Using [markdown][markdown] is a good idea.
 
@@ -47,7 +45,7 @@ Apart from this we plan to build a bunch of test projects and have fun together.
 
 ### Chats
 
-For your comfort we have created several chats in the telegram:
+For your comfort we have chat in the telegram:
 
 [DB КА-76 КА-75](https://web.telegram.org/#/im?p=s1408035153_10775424093266174421) - chat for students, where you can discuss anything related to the current course
 
@@ -72,3 +70,5 @@ For your comfort we have created several chats in the telegram:
 [awesome]: https://github.com/sindresorhus/awesome
 [markdown]: https://help.github.com/categories/writing-on-github/
 [wiki-stupid-question]: https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question
+[icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
+[license]: https://github.com/Kottans/web/blob/master/LICENSE.md
