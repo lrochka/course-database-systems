@@ -47,13 +47,16 @@ You can use these materials for self-education as well.
 
 For your comfort we have chat in the telegram:
 
-[DB КА-76 КА-75](https://web.telegram.org/#/im?p=s1408035153_10775424093266174421) - chat for students, where you can discuss anything related to the current course
+[DB КА-86 КА-87](https://web.telegram.org/#/im?p=g354222631) - chat for students, where you can discuss anything related to the current course
+
+And classroom [Database Systems](https://classroom.google.com/c/MTUyODk2OTA2MjY0?cjc=sjedeuo) - where you can submit your work and recieve a feedback
 
 ### Ready?
 
 ➡️ **Lets begin!** Go forward to [Git and GitHub Intro](tasks/git-intro.md)
 
 ➡️ Read course plan in [Contents](contents.md)
+
 
 ---
 
