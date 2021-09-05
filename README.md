@@ -47,9 +47,9 @@ You can use these materials for self-education as well.
 
 For your comfort we have chat in the telegram:
 
-[DB КА-86 КА-87](https://web.telegram.org/#/im?p=g354222631) - chat for students, where you can discuss anything related to the current course
+[DB КА-96 КА-97 КА-98](https://t.me/joinchat/3Oiz-VncWCNmMmJi) - chat for students, where you can discuss anything related to the current course
 
-And classroom [Database Systems](https://classroom.google.com/c/MTUyODk2OTA2MjY0?cjc=sjedeuo) - where you can submit your work and recieve a feedback
+And classroom [Database Systems](https://classroom.google.com/c/MjI2NTg1ODc2Njc3) - where you can submit your work and recieve a feedback
 
 ### Ready?
 
