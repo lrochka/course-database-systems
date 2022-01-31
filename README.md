@@ -75,3 +75,6 @@ And classroom [Database Systems](https://classroom.google.com/c/NDU0NjAzMzQzNTcz
 [wiki-stupid-question]: https://en.wikipedia.org/wiki/No_such_thing_as_a_stupid_question
 [icon-mit]: https://img.shields.io/badge/license-MIT-blue.svg
 [license]: https://github.com/Kottans/web/blob/master/LICENSE.md
+
+
+Dmitriy Vysotskyy KA-07 Task Manager
