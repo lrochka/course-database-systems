@@ -6,8 +6,8 @@
 
 ## Theory
 
-- [Introduction To DBMS](https://www.minigranth.com/dbms-tutorial/dbms-introduction/)
-- [SQL Introduction](https://www.minigranth.com/sql-tutorial/sql-introduction/)
+- [Introduction To DBMS](https://minigranth.in/dbms-tutorial/dbms-introduction/)
+- [SQL Introduction](https://minigranth.in/sql-tutorial/sql-introduction/)
 - [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [CodeCademy Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
